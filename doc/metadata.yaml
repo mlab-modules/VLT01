@@ -4,8 +4,8 @@ github_repo: VLT01
 github_url: https://github.com/mlab-modules/VLT01
 homepage: false
 images:
-- doc/img/VLT01A_top_small.jpg
 - doc/img/VLT01A_top_big.jpg
+- doc/img/VLT01A_top_small.jpg
 - doc/img/VLT01A_QRcode.png
 mark: 50
 tags: []
