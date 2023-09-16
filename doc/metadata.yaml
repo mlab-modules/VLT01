@@ -8,6 +8,7 @@ images:
 - doc/img/VLT01A_top_small.jpg
 - doc/img/VLT01A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
