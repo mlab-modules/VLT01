@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/VLT01
-summary: null
+summary: Convert digital signals between two voltage levels.
